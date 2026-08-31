@@ -6,6 +6,12 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
+_Last updated: 2026-08-31 · 1 PRs merged · 1 repos in the list below_
+
+| Type | Title | Repo | Status | Date |
+|------|-------|------|--------|------|
+| PR | [fix: rotated table cell double click to edit in slides](https://github.com/genspark-ai/genoffice/pull/171) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🟢 Open | 2026-08-31 |
+| Issue | [Double-clicking a cell in a rotated table doesn't open it for editing](https://github.com/genspark-ai/genoffice/issues/169) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🟢 Open | 2026-08-30 |
 <!-- CONTRIBUTIONS:END -->
 
 ---
