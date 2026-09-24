@@ -6,10 +6,11 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
-_Last updated: 2026-09-23 · 2 PRs merged · 1 repos in the list below_
+_Last updated: 2026-09-24 · 2 PRs merged · 2 repos in the list below_
 
 | Type | Title | Repo | Status | Date |
 |------|-------|------|--------|------|
+| Issue | [High extraction time and memory usage when using `@firecrawl/pdf-inspector` from an npm package](https://github.com/firecrawl/pdf-inspector/issues/585) | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🟢 Open | 2026-09-24 |
 | PR | [fix: rotated table cell double click to edit in slides](https://github.com/genspark-ai/genoffice/pull/171) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🟣 Merged | 2026-08-31 |
 | Issue | [Double-clicking a cell in a rotated table doesn't open it for editing](https://github.com/genspark-ai/genoffice/issues/169) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🔴 Closed | 2026-08-30 |
 <!-- CONTRIBUTIONS:END -->
