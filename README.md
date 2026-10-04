@@ -6,10 +6,11 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
-_Last updated: 2026-10-03 · 3 PRs merged · 3 repos in the list below_
+_Last updated: 2026-10-04 · 3 PRs merged · 3 repos in the list below_
 
 | Type | Title | Repo | Status | Date |
 |------|-------|------|--------|------|
+| Issue | [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🟢 Open | 2026-10-04 |
 | PR | [perf(tables): cut chart detection and layout complexity off quadratic paths](https://github.com/firecrawl/pdf-inspector/pull/613) | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🟢 Open | 2026-10-02 |
 | PR | [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) | [Cloud-Native-Security-Pakistan/becoming-a-member](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member) | 🟢 Open | 2026-09-24 |
 | Issue | [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) | [Cloud-Native-Security-Pakistan/becoming-a-member](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member) | 🔴 Closed | 2026-09-24 |
