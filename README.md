@@ -6,18 +6,25 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
-_Last updated: 2026-11-12 · 14 PRs merged · 4 repos in the list below_
+_Last updated: 2026-11-13 · 14 PRs merged · 1 repos in the list below_
 
 | Type | Title | Repo | Status | Date |
 |------|-------|------|--------|------|
-| PR | [Add Watcher to the project list](https://github.com/up-for-grabs/up-for-grabs.net/pull/6279) | [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) | 🟣 Merged | 2026-10-16 |
-| Issue | [Sheets: add File > Print (Ctrl/Cmd+P)](https://github.com/genspark-ai/genoffice/issues/1862) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🔴 Closed | 2026-10-04 |
-| PR | [perf(tables): cut chart detection and layout complexity off quadratic paths](https://github.com/firecrawl/pdf-inspector/pull/613) | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🟢 Open | 2026-10-02 |
-| PR | [added shaheeranser to membersmap](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/pull/25) | [Cloud-Native-Security-Pakistan/becoming-a-member](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member) | 🟢 Open | 2026-09-24 |
-| Issue | [[INVITE REQUEST]](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member/issues/24) | [Cloud-Native-Security-Pakistan/becoming-a-member](https://github.com/Cloud-Native-Security-Pakistan/becoming-a-member) | 🔴 Closed | 2026-09-24 |
-| Issue | [High extraction time and memory usage when using `@firecrawl/pdf-inspector` from an npm package](https://github.com/firecrawl/pdf-inspector/issues/585) | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🟢 Open | 2026-09-24 |
-| PR | [fix: rotated table cell double click to edit in slides](https://github.com/genspark-ai/genoffice/pull/171) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🟣 Merged | 2026-08-31 |
-| Issue | [Double-clicking a cell in a rotated table doesn't open it for editing](https://github.com/genspark-ai/genoffice/issues/169) | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 🔴 Closed | 2026-08-30 |
+| PR | [ci(generate): skip the PR when only generated_at changed](https://github.com/pakistan-hijri/hijri-api/pull/22) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
+| PR | [docs: the proposal PR carries the regenerated calendar](https://github.com/pakistan-hijri/hijri-api/pull/21) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
+| PR | [data(hijri): confirm 1 Jumada al-Thani 1448 as 2026-11-12](https://github.com/pakistan-hijri/hijri-api/pull/20) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
+| PR | [ci(watcher): regenerate the calendar in the proposal PR](https://github.com/pakistan-hijri/hijri-api/pull/19) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
+| PR | [generate: propose regenerated data via pull request](https://github.com/pakistan-hijri/hijri-api/pull/13) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
+| Issue | [Add a minimal Python reader example](https://github.com/pakistan-hijri/hijri-api/issues/12) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Validate a prayer profile against the PMD timetable](https://github.com/pakistan-hijri/hijri-api/issues/11) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Document an alternative external dispatcher for the watcher](https://github.com/pakistan-hijri/hijri-api/issues/10) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Document the JSON API with a worked example](https://github.com/pakistan-hijri/hijri-api/issues/9) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Backfill anchor months before 1446 AH (Ramadan, Shawwal, Muharram, Eid ul Adha)](https://github.com/pakistan-hijri/hijri-api/issues/8) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Backfill Hijri year 1446 AH](https://github.com/pakistan-hijri/hijri-api/issues/7) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| Issue | [Add Islamabad to the city table](https://github.com/pakistan-hijri/hijri-api/issues/6) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
+| PR | [Add PR CI and issue templates](https://github.com/pakistan-hijri/hijri-api/pull/5) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
+| PR | [Add a manual backfill report command and workflow](https://github.com/pakistan-hijri/hijri-api/pull/4) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
+| PR | [Backfill 1447 AH, correct 1448 baseline drift, and harden the watcher](https://github.com/pakistan-hijri/hijri-api/pull/3) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
 <!-- CONTRIBUTIONS:END -->
 
 ---
