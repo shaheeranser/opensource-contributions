@@ -6,10 +6,12 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
-_Last updated: 2026-11-16 · 14 PRs merged · 1 repos in the list below_
+_Last updated: 2026-11-17 · 16 PRs merged · 2 repos in the list below_
 
 | Type | Title | Repo | Status | Date |
 |------|-------|------|--------|------|
+| PR | [chore: align tooling and docs with canonical upstream](https://github.com/pakistan-hijri/hijri-cli/pull/1) | [pakistan-hijri/hijri-cli](https://github.com/pakistan-hijri/hijri-cli) | 🟣 Merged | 2026-11-17 |
+| PR | [refactor: rename watcher to scanner and update org links](https://github.com/pakistan-hijri/hijri-api/pull/23) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-17 |
 | PR | [ci(generate): skip the PR when only generated_at changed](https://github.com/pakistan-hijri/hijri-api/pull/22) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
 | PR | [docs: the proposal PR carries the regenerated calendar](https://github.com/pakistan-hijri/hijri-api/pull/21) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
 | PR | [data(hijri): confirm 1 Jumada al-Thani 1448 as 2026-11-12](https://github.com/pakistan-hijri/hijri-api/pull/20) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
@@ -23,8 +25,6 @@ _Last updated: 2026-11-16 · 14 PRs merged · 1 repos in the list below_
 | Issue | [Backfill Hijri year 1446 AH](https://github.com/pakistan-hijri/hijri-api/issues/7) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
 | Issue | [Add Islamabad to the city table](https://github.com/pakistan-hijri/hijri-api/issues/6) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
 | PR | [Add PR CI and issue templates](https://github.com/pakistan-hijri/hijri-api/pull/5) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
-| PR | [Add a manual backfill report command and workflow](https://github.com/pakistan-hijri/hijri-api/pull/4) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
-| PR | [Backfill 1447 AH, correct 1448 baseline drift, and harden the watcher](https://github.com/pakistan-hijri/hijri-api/pull/3) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
 <!-- CONTRIBUTIONS:END -->
 
 ---
