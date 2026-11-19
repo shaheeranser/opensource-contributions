@@ -6,10 +6,11 @@ Refreshed daily by a [GitHub Action](.github/workflows/update-contributions.yml)
 ## Recent activity
 
 <!-- CONTRIBUTIONS:START -->
-_Last updated: 2026-11-18 · 16 PRs merged · 2 repos in the list below_
+_Last updated: 2026-11-19 · 17 PRs merged · 2 repos in the list below_
 
 | Type | Title | Repo | Status | Date |
 |------|-------|------|--------|------|
+| PR | [feat: complete calendar, presentation, and npm release prep](https://github.com/pakistan-hijri/hijri-cli/pull/2) | [pakistan-hijri/hijri-cli](https://github.com/pakistan-hijri/hijri-cli) | 🟣 Merged | 2026-11-19 |
 | PR | [chore: align tooling and docs with canonical upstream](https://github.com/pakistan-hijri/hijri-cli/pull/1) | [pakistan-hijri/hijri-cli](https://github.com/pakistan-hijri/hijri-cli) | 🟣 Merged | 2026-11-17 |
 | PR | [refactor: rename watcher to scanner and update org links](https://github.com/pakistan-hijri/hijri-api/pull/23) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-17 |
 | PR | [ci(generate): skip the PR when only generated_at changed](https://github.com/pakistan-hijri/hijri-api/pull/22) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-11-11 |
@@ -24,7 +25,6 @@ _Last updated: 2026-11-18 · 16 PRs merged · 2 repos in the list below_
 | Issue | [Backfill anchor months before 1446 AH (Ramadan, Shawwal, Muharram, Eid ul Adha)](https://github.com/pakistan-hijri/hijri-api/issues/8) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
 | Issue | [Backfill Hijri year 1446 AH](https://github.com/pakistan-hijri/hijri-api/issues/7) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
 | Issue | [Add Islamabad to the city table](https://github.com/pakistan-hijri/hijri-api/issues/6) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟢 Open | 2026-10-17 |
-| PR | [Add PR CI and issue templates](https://github.com/pakistan-hijri/hijri-api/pull/5) | [pakistan-hijri/hijri-api](https://github.com/pakistan-hijri/hijri-api) | 🟣 Merged | 2026-10-17 |
 <!-- CONTRIBUTIONS:END -->
 
 ---
